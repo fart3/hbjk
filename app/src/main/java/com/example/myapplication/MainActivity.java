@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
                 else if(Math.abs(randnum - guess) >= 3){
                     gino.setText("far");
                 }
+                //this is a commment
             }
         });
     }
